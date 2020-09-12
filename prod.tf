@@ -107,4 +107,3 @@ resource "aws_elb" "prod_web" {
   }
 }
 
-
